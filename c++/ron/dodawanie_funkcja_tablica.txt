@@ -1,0 +1,35 @@
+#include <iostream>
+
+// Funkcja do wyświetlania tablicy
+void wyswietlTablice(int *tablica, int rozmiar) {
+    std::cout << "Tablica: ";
+    for (int i = 0; i < rozmiar; ++i) {
+        std::cout << tablica[i] << " ";
+    }
+    std::cout << std::endl;
+}
+
+// Funkcja do dodawania wartości do tablicy
+void dodajDoTablicy(int *tablica, int rozmiar) {
+    std::cout << "Podaj " << rozmiar << " liczb do tablicy:" << std::endl;
+    for (int i = 0; i < rozmiar; ++i) {
+        std::cin >> tablica[i];
+    }
+}
+
+int main() {
+    int rozmiar;
+
+    std::cout << "Podaj rozmiar tablicy: ";
+    std::cin >> rozmiar;
+
+    int *tablica = new int[rozmiar]; // Tworzenie tablicy dynamicznej
+
+    dodajDoTablicy(tablica, rozmiar); // Dodawanie wartości do tablicy
+
+    wyswietlTablice(tablica, rozmiar); // Wyświetlanie tablicy
+
+    delete[] tablica; // Zwolnienie pamięci po tablicy
+
+    return 0;
+}

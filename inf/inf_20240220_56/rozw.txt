@@ -1,0 +1,27 @@
+5.1 a) SELECT Wyniki.Rodzaj_meczu, Count(Wyniki.Data_meczu) AS PoliczOfData_meczu FROM Druzyny INNER JOIN Wyniki ON Druzyny.Id_druzyny = Wyniki.Id_druzyny GROUP BY Wyniki.Rodzaj_meczu, Druzyny.Miasto HAVING (((Druzyny.Miasto)="Kucykowo"));
+    b) SELECT Count(Wyniki.Rodzaj_meczu) AS PoliczOfRodzaj_meczu, Year(Data_meczu) AS Wyr1 FROM Druzyny INNER JOIN Wyniki ON Druzyny.Id_druzyny = Wyniki.Id_druzyny GROUP BY Year(Data_meczu), Druzyny.Miasto HAVING (((Druzyny.Miasto)="Kucykowo")) ORDER BY Count(Wyniki.Rodzaj_meczu) DESC;
+5.2
+	SELECT Druzyny.Nazwa, Druzyny.Miasto, Sum(Wyniki.Bramki_zdobyte) AS SumaOfBramki_zdobyte, Sum(Wyniki.Bramki_stracone) AS SumaOfBramki_stracone
+FROM Druzyny 
+INNER JOIN Wyniki ON Druzyny.Id_druzyny = Wyniki.Id_druzyny
+GROUP BY Druzyny.Nazwa, Druzyny.Miasto
+HAVING Sum(Wyniki.Bramki_zdobyte) - Sum(Wyniki.Bramki_stracone) = 0;
+
+5.3
+wygrane
+SELECT Count(*)
+FROM Wyniki
+WHERE Bramki_zdobyte>Bramki_stracone AND Gdzie="W";
+przegrane
+SELECT Count(*)
+FROM Wyniki
+WHERE Bramki_zdobyte<Bramki_stracone AND Gdzie="W";
+remis
+SELECT Count(*)
+FROM Wyniki
+WHERE Bramki_zdobyte=Bramki_stracone AND Gdzie="W";
+5.4
+SELECT Count(*) AS Ilu_sedziow
+FROM sedziowie
+WHERE ((sedziowie.`nr_licencji`) Not In (SELECT nr_licencji FROM wyniki WHERE Rodzaj_meczu='P'));
+

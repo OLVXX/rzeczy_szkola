@@ -1,0 +1,5 @@
+Zadanie_1: (221, 7)
+Zadanie_2: 5
+Zadanie_3: 462
+Zadanie_4: 4
+Zadanie_5: (153, 221)

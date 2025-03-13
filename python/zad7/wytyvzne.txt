@@ -1,0 +1,8 @@
+bez :
+max
+zip
+sum
+sort
+int
+for
+tupple

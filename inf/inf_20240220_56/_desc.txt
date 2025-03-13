@@ -1,0 +1,26 @@
+Gosia mieszka w Kucykowie i jest fanką lokalnej kobiecej drużyny piłki nożnej Galop
+Kucykowo. Gosia zbiera informacje o wszystkich wynikach oficjalnych meczów tej drużyny.
+Informacje te zapisuje w plikach: druzyny.txt, sedziowie.txt, wyniki.txt.
+
+Pierwszy wiersz w każdym z plików jest wierszem nagłówkowym. Dane w każdym wierszu
+oddzielone są znakiem tabulacji.
+
+Zadanie 5.1
+a) Podaj, ile towarzyskich, ile ligowych oraz ile pucharowych meczów rozegrała drużyna
+Galop Kucykowo z drużynami ze swego miasta.
+b) W którym roku drużyna Galop Kucykowo rozegrała najwięcej meczów z drużynami
+ze swego miasta (łącznie wszystkie rodzaje meczów)? Podaj rok i liczbę tych meczów.
+
+Zadanie 5.2
+Podaj listę zawierającą nazwy drużyn, z którymi drużyna Galop Kucykowo ma zerowy bilans
+bramkowy, tzn. łączna liczba bramek zdobytych we wszystkich meczach rozegranych z daną
+drużyną jest równa łącznej liczbie bramek straconych w tych meczach.
+
+Zadanie 5.3
+Podaj liczby meczów wyjazdowych – wygranych, przegranych i zremisowanych – przez
+drużynę Galop Kucykowo.
+
+Zadanie 5.4
+Podaj, ilu sędziów spośród tych zapisanych w pliku sedziowie.txt nie sędziowało
+żadnego pucharowego meczu drużyny Galop Kucykowo.
+

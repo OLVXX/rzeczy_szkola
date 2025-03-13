@@ -1,0 +1,48 @@
+1)
+ALTER TABLE nazwa_tabeli
+ADD PRIMARY KEY (nazwa);
+
+ALTER TABLE panstwa
+ADD PRIMARY KEY (id_panstwa);
+
+ALTER TABLE miasta
+ADD PRIMARY KEY (id_miasta);
+
+ALTER TABLE kontynenty
+ADD PRIMARY KEY (id_kontynentu);
+
+2)
+
+CREATE INDEX idx_nazwa
+ON miasta (nazwa);
+
+CREATE INDEX idx_panstwa
+ON miasta (id_panstwa);
+
+CREATE INDEX idx_kontynenty
+ON panstwa (id_kontynentu);
+
+CREATE INDEX idx_miasta
+ON panstwa (id_miasta);
+3)
+
+ALTER TABLE nazwa_tabeli
+ADD UNIQUE (nazwa);
+
+ALTER TABLE kontynenty
+ADD UNIQUE (id_kontynentu);
+
+ALTER TABLE panstwa
+ADD UNIQUE (id_panstwa);
+
+ALTER TABLE miasta
+ADD UNIQUE (id_miasta);
+4)
+ALTER TABLE nazwa_tabeli
+DROP PRIMARY KEY;
+
+ALTER TABLE nazwa_tabeli
+DROP INDEX nazwa_indeksu;
+
+ALTER TABLE nazwa_tabeli
+DROP INDEX nazwa_kolumny;

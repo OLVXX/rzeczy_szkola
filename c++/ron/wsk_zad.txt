@@ -1,0 +1,41 @@
+#include <iostream>
+
+float* func(int size, float* average) {
+    // Utwórz tablicę o rozmiarze size + 1 (dodatkowy element na rozmiar tablicy)
+    float* array = new float[size + 1];
+
+    // Pierwszy element tablicy to rozmiar tablicy
+    array[0] = static_cast<float>(size);
+
+    for (int i = 1; i <= size; ++i) {
+        std::cout << "Podaj liczbe " << i << ": ";
+        std::cin >> array[i];
+    }
+
+    float sum = 0.0;
+    for (int i = 1; i <= size; ++i) {
+        sum += array[i] + size;
+    }
+    *average = sum / size;
+
+    return array;
+}
+
+int main() {
+    int size;
+    std::cout << "Podaj rozmiar tablicy: ";
+    std::cin >> size;
+
+    float average;
+    float* array = func(size, &average);
+
+    // Wyświetl elementy tablicy (włącznie z pierwszym elementem, który jest rozmiarem)
+    for (int i = 0; i <= size; i++) {
+        std::cout << array[i] << "\n";
+    }
+    std::cout << "Srednia wartosc liczb w tablicy: " << average << std::endl;
+
+    delete[] array;
+
+    return 0;
+}

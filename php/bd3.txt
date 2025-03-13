@@ -1,0 +1,10 @@
+1. Pokazać:
+a) miasto (nazwa) // SELECT * FROM miasta;
+b) państwo (nazwa) // SELECT * FROM panstwa;
+c) mkontynent (nazwa) SELECT * FROM kontynenty;
+2. Pokaż zestawienia:
+a) miasto - państwo //SELECT * FROM `miasta` JOIN `panstwa` ON `miasta`.`id_panstwa`= `panstwa`.`id_panstwo`
+b) miasto - państwo - kontynent
+c) miasto - kontynent
+d) miasto, ludność - państwo
+3. Pokazać miasto z nakwiększa i najmniejszą liczbą ludności (wykorzystaj LIMIT i ORDER BY) 

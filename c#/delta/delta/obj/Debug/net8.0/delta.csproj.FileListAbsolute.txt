@@ -1,0 +1,15 @@
+C:\szkola\przedmioty_szkola\c#\delta\delta\bin\Debug\net8.0\delta.exe
+C:\szkola\przedmioty_szkola\c#\delta\delta\bin\Debug\net8.0\delta.deps.json
+C:\szkola\przedmioty_szkola\c#\delta\delta\bin\Debug\net8.0\delta.runtimeconfig.json
+C:\szkola\przedmioty_szkola\c#\delta\delta\bin\Debug\net8.0\delta.dll
+C:\szkola\przedmioty_szkola\c#\delta\delta\bin\Debug\net8.0\delta.pdb
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.GeneratedMSBuildEditorConfig.editorconfig
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.AssemblyInfoInputs.cache
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.AssemblyInfo.cs
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.csproj.CoreCompileInputs.cache
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.sourcelink.json
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.dll
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\refint\delta.dll
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.pdb
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\delta.genruntimeconfig.cache
+C:\szkola\przedmioty_szkola\c#\delta\delta\obj\Debug\net8.0\ref\delta.dll

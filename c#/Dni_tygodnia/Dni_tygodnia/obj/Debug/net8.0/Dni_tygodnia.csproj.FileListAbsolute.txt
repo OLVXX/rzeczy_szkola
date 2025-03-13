@@ -1,0 +1,15 @@
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\bin\Debug\net8.0\Dni_tygodnia.exe
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\bin\Debug\net8.0\Dni_tygodnia.deps.json
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\bin\Debug\net8.0\Dni_tygodnia.runtimeconfig.json
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\bin\Debug\net8.0\Dni_tygodnia.dll
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\bin\Debug\net8.0\Dni_tygodnia.pdb
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.AssemblyInfoInputs.cache
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.AssemblyInfo.cs
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.csproj.CoreCompileInputs.cache
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.sourcelink.json
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.dll
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\refint\Dni_tygodnia.dll
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.pdb
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\Dni_tygodnia.genruntimeconfig.cache
+C:\szkola\przedmioty_szkola\c#\Dni_tygodnia\Dni_tygodnia\obj\Debug\net8.0\ref\Dni_tygodnia.dll

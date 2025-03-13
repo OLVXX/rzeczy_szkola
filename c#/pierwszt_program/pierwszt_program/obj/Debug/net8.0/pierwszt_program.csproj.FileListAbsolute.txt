@@ -1,0 +1,15 @@
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\bin\Debug\net8.0\pierwszt_program.exe
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\bin\Debug\net8.0\pierwszt_program.deps.json
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\bin\Debug\net8.0\pierwszt_program.runtimeconfig.json
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\bin\Debug\net8.0\pierwszt_program.dll
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\bin\Debug\net8.0\pierwszt_program.pdb
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.AssemblyInfoInputs.cache
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.AssemblyInfo.cs
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.csproj.CoreCompileInputs.cache
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.sourcelink.json
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.dll
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\refint\pierwszt_program.dll
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.pdb
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\pierwszt_program.genruntimeconfig.cache
+C:\szkola\przedmioty_szkola\c#\pierwszt_program\pierwszt_program\obj\Debug\net8.0\ref\pierwszt_program.dll

@@ -1,0 +1,10 @@
+1. Wczytać dane z plików dane1 i dane2 do tabli wielowymiarowych
+2. Jeden wiersz potraktować nalwezy jako wymiary prostokata
+3. Obliczyć:
+- sumę pól wszystkich czworokątów
+- średnią pól wszystkich czworokątów
+- największe i najmniejsze pole czwrokąta
+- które pole pojawia się najczęściej i ile wynosi (jęzeli jest kilka to  o tej samej wielkości topokazujemy wszystkie)
+
+Zad na 6
+to samo dla pliku dane.txt ale na objętościach prostopadłościanu

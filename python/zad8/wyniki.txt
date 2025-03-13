@@ -1,0 +1,67 @@
+Liczba powiat�w nale��cych do wojew�dztwa mazowieckiego, w kt�rych saldo migracji by�o ujemne: 24
+
+
+10 powiat�w o najwi�kszym wsp�czynniku przyrostu naturalnego:
+kartuski: 8.7
+koscierski: 7.199999999999999
+wejherowski: 7.199999999999999
+limanowski: 6.3999999999999995
+nowosadecki: 6.1
+poznanski: 6.0
+gdanski: 5.999999999999999
+m Zory: 5.700000000000001
+bytowski: 5.699999999999999
+pszczynski: 5.500000000000001
+
+
+Cztery wojew�dztwa o najwi�kszej liczbie ludno�ci:
+mazowieckie: 5222167
+slaskie: 4640725
+wielkopolskie: 3408281
+malopolskie: 3298270
+
+Zestawienie powiat�w oraz liczby urodze� w 2009 roku w ka�dym powiecie dla wojew�dztwa opolskiego:
+brzeski: 995
+glubczycki: 459
+kedzierzynsko-kozielski: 812
+kluczborski: 591
+krapkowicki: 561
+m Opole: 1182
+namyslowski: 473
+nyski: 1337
+oleski: 584
+opolski: 1093
+prudnicki: 528
+strzelecki: 657
+Liczba powiat�w nale��cych do wojew�dztwa mazowieckiego, w kt�rych saldo migracji by�o ujemne: 24
+10 powiat�w o najwi�kszym wsp�czynniku przyrostu naturalnego:
+kartuski: 8.7
+koscierski: 7.199999999999999
+wejherowski: 7.199999999999999
+limanowski: 6.3999999999999995
+nowosadecki: 6.1
+poznanski: 6.0
+gdanski: 5.999999999999999
+m Zory: 5.700000000000001
+bytowski: 5.699999999999999
+pszczynski: 5.500000000000001
+Cztery wojew�dztwa o najwi�kszej liczbie ludno�ci:
+mazowieckie: 5222167
+slaskie: 4640725
+wielkopolskie: 3408281
+malopolskie: 3298270
+
+
+Zestawienie powiat�w oraz liczby urodze� w 2009 roku w ka�dym powiecie dla wojew�dztwa opolskiego:
+brzeski: 995
+glubczycki: 459
+kedzierzynsko-kozielski: 812
+kluczborski: 591
+krapkowicki: 561
+m Opole: 1182
+namyslowski: 473
+nyski: 1337
+oleski: 584
+opolski: 1093
+prudnicki: 528
+strzelecki: 657

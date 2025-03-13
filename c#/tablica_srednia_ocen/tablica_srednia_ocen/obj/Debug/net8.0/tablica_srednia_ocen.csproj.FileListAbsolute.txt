@@ -1,0 +1,15 @@
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\bin\Debug\net8.0\tablica_srednia_ocen.exe
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\bin\Debug\net8.0\tablica_srednia_ocen.deps.json
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\bin\Debug\net8.0\tablica_srednia_ocen.runtimeconfig.json
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\bin\Debug\net8.0\tablica_srednia_ocen.dll
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\bin\Debug\net8.0\tablica_srednia_ocen.pdb
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.GeneratedMSBuildEditorConfig.editorconfig
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.AssemblyInfoInputs.cache
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.AssemblyInfo.cs
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.csproj.CoreCompileInputs.cache
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.sourcelink.json
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.dll
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\refint\tablica_srednia_ocen.dll
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.pdb
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\tablica_srednia_ocen.genruntimeconfig.cache
+C:\szkola\przedmioty_szkola\c#\tablica_srednia_ocen\tablica_srednia_ocen\obj\Debug\net8.0\ref\tablica_srednia_ocen.dll

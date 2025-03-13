@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dni_tygodnia/1.0.0": {
+        "runtime": {
+          "Dni_tygodnia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dni_tygodnia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

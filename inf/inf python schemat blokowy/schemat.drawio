@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-03-19T07:39:48.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UFsVZrpbduIda1bx7-Mi" version="24.0.7" type="device">
+  <diagram name="Page-1" id="0TAZHlfyZ8M8LFkcNimV">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontFamily=Helvetica;" edge="1" parent="1" source="qThXzj5T7pmzKJdJDPPr-2" target="qThXzj5T7pmzKJdJDPPr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-2" value="&lt;ol style=&quot;margin: 12px 0px 0px; display: flex; flex-direction: column; gap: 4px; padding-inline-start: 24px; font-size: 14px; text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Importuj moduł math&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontFamily=Helvetica;" edge="1" parent="1" source="qThXzj5T7pmzKJdJDPPr-4" target="qThXzj5T7pmzKJdJDPPr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-4" value="&lt;strong style=&quot;font-size: 14px; text-align: left; background-color: rgb(247, 247, 247);&quot;&gt;Zdefiniuj funkcję&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;font-size: 14px; text-align: left; background-color: rgb(247, 247, 247);&quot;&gt;czynniki_pierwsze&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontFamily=Helvetica;" edge="1" parent="1" source="qThXzj5T7pmzKJdJDPPr-6" target="qThXzj5T7pmzKJdJDPPr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-6" value="&lt;span style=&quot;font-size: 14px; text-align: left; background-color: rgb(247, 247, 247);&quot;&gt;&lt;b&gt;Zdefiniuj funkcję&amp;nbsp;&lt;code style=&quot;white-space-collapse: preserve; font-size: var(--cib-type-body1-font-size); line-height: var(--cib-type-body1-line-height); font-variation-settings: var(--cib-type-body1-font-variation-settings); margin: 0px 2px; padding: 1px 4px; box-sizing: border-box; border: 1px solid var(--cib-color-stroke-neutral-primary); border-radius: var(--cib-border-radius-medium); background: var(--cib-color-syntax-background-surface);&quot;&gt;zadanie1()&lt;/code&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="305" y="360" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontFamily=Helvetica;" edge="1" parent="1" source="qThXzj5T7pmzKJdJDPPr-9" target="qThXzj5T7pmzKJdJDPPr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-9" value="&lt;strong style=&quot;font-size: 14px; text-align: left; background-color: rgb(247, 247, 247);&quot;&gt;Zdefiniuj funkcję &lt;/strong&gt;&lt;span style=&quot;font-size: 14px; text-align: left; background-color: rgb(247, 247, 247); white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;b&gt;zadanie 2()&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="480" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qThXzj5T7pmzKJdJDPPr-11" target="qThXzj5T7pmzKJdJDPPr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-11" value="&lt;strong style=&quot;font-size: 14px; text-align: left; background-color: rgb(247, 247, 247);&quot;&gt;Wywołaj i pokaż wyniki&amp;nbsp;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="325" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-14" value="Start programu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-15" value="Koniec programu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="699" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qThXzj5T7pmzKJdJDPPr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qThXzj5T7pmzKJdJDPPr-14" target="qThXzj5T7pmzKJdJDPPr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,15 @@
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net8.0\kolko_krzyzyk.exe
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net8.0\kolko_krzyzyk.deps.json
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net8.0\kolko_krzyzyk.runtimeconfig.json
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net8.0\kolko_krzyzyk.dll
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net8.0\kolko_krzyzyk.pdb
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.AssemblyInfoInputs.cache
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.AssemblyInfo.cs
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.csproj.CoreCompileInputs.cache
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.sourcelink.json
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.dll
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\refint\kolko_krzyzyk.dll
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.pdb
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\kolko_krzyzyk.genruntimeconfig.cache
+C:\szkola\przedmioty_szkola\c#\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net8.0\ref\kolko_krzyzyk.dll

@@ -1,0 +1,3 @@
+﻿  pierwszy_program.cpp
+h:\programowanie\c++\pierwszy_program\pierwszy_program\pierwszy_program.cpp(9): error C2059: błąd składniowy: „stała”
+h:\programowanie\c++\pierwszy_program\pierwszy_program\pierwszy_program.cpp(9): error C2143: błąd składniowy: brakuje „;” przed „{”

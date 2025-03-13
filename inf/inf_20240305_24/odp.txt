@@ -1,0 +1,23 @@
+1 SELECT COUNT(*) 
+FROM ewidencja 
+JOIN uczen ON ewidencja.IdUcznia = uczen.IdUcznia 
+JOIN klasa ON uczen.IdKlasy = klasa.IdKlasy 
+WHERE klasa.ProfilKlasy = 'biologiczno-chemiczny' AND uczen.Imie LIKE '%a';
+
+2
+SELECT DATE(Wejscie) AS Dzien, COUNT(*) AS LiczbaUczniow 
+FROM ewidencja 
+WHERE TIME(Wejscie) < '08:00:00' 
+GROUP BY Dzien;
+3
+SELECT uczen.IdUcznia, Imie, Nazwisko, SUM(TIMESTAMPDIFF(MINUTE, Wejscie, Wyjscie)) AS CzasPobytu 
+FROM ewidencja 
+JOIN uczen ON ewidencja.IdUcznia = uczen.IdUcznia 
+GROUP BY uczen.IdUcznia, Imie, Nazwisko 
+ORDER BY CzasPobytu DESC 
+LIMIT 3;
+
+4
+SELECT Imie, Nazwisko 
+FROM uczen 
+WHERE IdUcznia NOT IN (SELECT IdUcznia FROM ewidencja WHERE DATE(Wejscie) = '2022-04-06');

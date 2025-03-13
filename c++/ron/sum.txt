@@ -1,0 +1,42 @@
+#include <iostream>
+
+// Funkcja do wyświetlania tablicy
+void wyswietlTablice(int *tablica, int rozmiar) {
+    std::cout << "Tablica: ";
+    for (int i = 0; i < rozmiar; ++i) {
+        std::cout << tablica[i] << " ";
+    }
+    std::cout << std::endl;
+}
+
+// Funkcja do sumowania elementów tablicy
+int sumaTablicy(int *tablica, int rozmiar) {
+    int suma = 0;
+    for (int i = 0; i < rozmiar; ++i) {
+        suma += tablica[i];
+    }
+    return suma;
+}
+
+int main() {
+    int rozmiar;
+
+    std::cout << "Podaj rozmiar tablicy: ";
+    std::cin >> rozmiar;
+
+    int *tablica = new int[rozmiar]; // Tworzenie tablicy dynamicznej
+
+    std::cout << "Podaj " << rozmiar << " liczb do tablicy:" << std::endl;
+    for (int i = 0; i < rozmiar; ++i) {
+        std::cin >> tablica[i];
+    }
+
+    wyswietlTablice(tablica, rozmiar); // Wyświetlanie tablicy
+
+    int suma = sumaTablicy(tablica, rozmiar); // Sumowanie elementów tablicy
+    std::cout << "Suma elementów tablicy: " << suma << std::endl;
+
+    delete[] tablica; // Zwolnienie pamięci po tablicy
+
+    return 0;
+}

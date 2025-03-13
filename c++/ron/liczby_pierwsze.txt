@@ -1,0 +1,41 @@
+#include <iostream>
+
+// Funkcja sprawdzająca, czy liczba jest liczbą pierwszą
+void czyLiczbaPierwsza(int liczba) {
+    bool pierwsza = true;
+    if (liczba <= 1)
+        pierwsza = false;
+    else {
+        for (int i = 2; i * i <= liczba; ++i) {
+            if (liczba % i == 0) {
+                pierwsza = false;
+                break;
+            }
+        }
+    }
+    if (pierwsza)
+        std::cout << liczba << " ";
+}
+
+int main() {
+    int rozmiar;
+    std::cout << "Podaj rozmiar tablicy: ";
+    std::cin >> rozmiar;
+
+    int* tablica = new int[rozmiar]; // Tworzenie dynamicznej tablicy
+
+    std::cout << "Podaj " << rozmiar << " liczb do tablicy:\n";
+    for (int i = 0; i < rozmiar; ++i) {
+        std::cin >> tablica[i];
+    }
+
+    std::cout << "Liczby pierwsze z tablicy:\n";
+    for (int i = 0; i < rozmiar; ++i) {
+        czyLiczbaPierwsza(tablica[i]);
+    }
+    std::cout << std::endl;
+
+    delete[] tablica; // Zwolnienie pamięci po tablicy
+
+    return 0;
+}

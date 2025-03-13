@@ -1,0 +1,6 @@
+Subtask_1: 5030
+Subtask_2: ('B', 1001, 1004)
+Subtask_3: Liczba dobrych pass: 6 Najdï¿½uï¿½sza dobra passa: B, 15 rozgrywek
+Subtask_1: 5030
+Subtask_2: ('B', 1001, 1004)
+Subtask_3: Liczba dobrych pass: 6 Najd³u¿sza dobra passa: B, 15 rozgrywek

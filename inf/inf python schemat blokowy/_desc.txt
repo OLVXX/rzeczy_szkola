@@ -1,0 +1,31 @@
+W pliku liczby.txt danych jest 200 różnych liczb całkowitych z zakresu [10, 100000].
+Każda z tych liczb zapisana jest w osobnym wierszu.
+
+Napisz program (lub kilka programów), który(-e) znajdzie(-dą) odpowiedzi do poniższych
+zadań.
+
+Do dyspozycji masz plik przyklad.txt, który także zawiera 200 liczb – odpowiedzi dla
+tego pliku podano w treściach zadań. Możesz sprawdzać na nim działanie swojego
+programu.
+Uwaga: Pamiętaj, że Twój program musi ostatecznie działać dla pliku liczby.txt.
+
+Zadanie 1.
+Podaj, ile jest w pliku liczby.txt takich liczb, których cyfry pierwsza i ostatnia są takie
+same. Zapisz tę z nich, która występuje w pliku liczby.txt jako pierwsza.
+W pliku z danymi jest co najmniej jedna taka liczba.
+Odpowiedź dla danych z pliku przyklad.txt: 26 626
+(26 takich liczb, które mają pierwszą i ostatnią cyfrę taką samą; pierwszą z nich w pliku
+przykładowym jest 626)
+
+Zadanie 2.
+Znajdź w pliku liczby.txt:
+- liczbę, która ma w rozkładzie najwięcej czynników pierwszych (podaj tę liczbę oraz liczbę
+jej czynników pierwszych)
+- liczbę, która ma w rozkładzie najwięcej różnych czynników pierwszych (podaj tę liczbę
+oraz liczbę jej różnych czynników pierwszych).
+Przykład: liczba 420=2·2·3·5·7 ma w rozkładzie 5 czynników pierwszych, w tym 4 różne
+czynniki pierwsze (2, 3, 5, 7).
+Odpowiedź dla danych z pliku przyklad.txt: 144 6 210 4
+(Liczba 144 ma najwięcej czynników pierwszych; liczba czynników pierwszych liczby 144
+wynosi 6. Liczba 210 ma najwięcej różnych czynników pierwszych; liczba różnych czynników
+pierwszych liczby 210 wynosi 4).

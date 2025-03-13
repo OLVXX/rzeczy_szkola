@@ -1,0 +1,23 @@
+Zad 1.
+Znajdź 10 najczęstszych rodzajów dysków (czyli 10 najczęściej występujących pojemności)
+wśród komputerów w centrum. Dla każdej ze znalezionych pojemności podaj liczbę
+komputerów z takim dyskiem. Posortuj zestawienie nierosnąco względem liczby komputerów
+z dyskiem o danej pojemności.
+
+Zad 2.
+Znajdź wszystkie komputery w sekcji A, w których trzeba było przynajmniej dziesięciokrotnie
+wymieniać podzespoły. Podaj ich numery, a także liczbę wymian podzespołów dla każdego
+z nich.
+
+Zad 3.
+Pewnego dnia nastąpiła awaria wszystkich komputerów w jednej z sekcji. Podaj datę awarii
+oraz symbol sekcji, w której nastąpiła awaria.
+
+Zad 4.
+Znajdź awarię, której usunięcie trwało najdłużej (czas liczymy od wystąpienia awarii do
+momentu zakończenia ostatniej z napraw, jakiej ta awaria wymagała). Podaj numer zgłoszenia,
+czas wystąpienia awarii i czas zakończenia ostatniej naprawy.
+
+Zad 5.
+Podaj liczbę komputerów, które nie uległy żadnej awarii o priorytecie większym lub równym
+8 (wliczamy w to też komputery, które w ogóle nie uległy awarii).

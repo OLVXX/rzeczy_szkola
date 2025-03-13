@@ -1,0 +1,13 @@
+zad 1
+SELECT COUNT(*) FROM `dane_ankiet_txt` WHERE `Imie` LIKE '%a'; kobiety 119
+SELECT COUNT(*) FROM `dane_ankiet_txt` WHERE `Imie` NOT LIKE '%a'; mezczyzn 161
+zad 2
+SELECT `dane_ankiet_txt`.`Wojewodztwo`, `lok_txt`.`Srod_lok`, COUNT(`dane_ankiet_txt`.`Id`) FROM `dane_ankiet_txt` 
+INNER JOIN `lok_txt` ON `dane_ankiet_txt`.`Id` = `lok_txt`.`Id` 
+WHERE `dane_ankiet_txt`.`Wojewodztwo` = 'Mazowieckie' AND `lok_txt`.`Pora_roku` = 'lato' 
+GROUP BY `lok_txt`.`Srod_lok`;
+zad 3
+SELECT `Wojewodztwo`, COUNT(*) as `liczba_osob`
+FROM `dane_ankiet_txt`
+GROUP BY `Wojewodztwo`
+HAVING `liczba_osob` > 20;

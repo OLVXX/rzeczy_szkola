@@ -1,0 +1,28 @@
+#include <iostream>
+
+// Funkcja do podwajania wartości liczby przy użyciu wskaźnika
+void podwajaj(int* ptr) {
+    *ptr *= 2;
+}
+
+// Funkcja do zamiany miejscami wartości dwóch liczb przy użyciu wskaźników
+void zamien(int* a, int* b) {
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
+int main() {
+    int liczba = 5;
+    int liczba2 = 10;
+
+    std::cout << "Początkowa wartość liczby: " << liczba << std::endl;
+    podwajaj(&liczba); // Wywołanie funkcji podwajającej
+    std::cout << "Po wywołaniu funkcji podwajającej: " << liczba << std::endl;
+
+    std::cout << "\nPoczątkowe wartości liczb: " << liczba << " " << liczba2 << std::endl;
+    zamien(&liczba, &liczba2); // Wywołanie funkcji zamieniającej wartości
+    std::cout << "Po wywołaniu funkcji zamieniającej: " << liczba << " " << liczba2 << std::endl;
+
+    return 0;
+}

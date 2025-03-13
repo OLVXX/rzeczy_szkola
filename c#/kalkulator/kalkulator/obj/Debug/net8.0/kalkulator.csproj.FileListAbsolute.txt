@@ -1,0 +1,15 @@
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.exe
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.dll
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.sourcelink.json
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.dll
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+C:\szkola\przedmioty_szkola\c#\kalkulator\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll

@@ -1,0 +1,35 @@
+1 PRAWDA
+  k wynosi
+  FAŁSZ
+1.2
+def czy_k_podobne(n, A, B, k):
+    if A[:k] == B[n-k:] and A[k:] == B[:n-k]:
+        return 'PRAWDA'
+    else:
+        return 'FAŁSZ'
+Prawda
+1.3
+def czy_podobne(n, A, B):
+    for k in range(n+1):
+        if czy_k_podobne(n, A, B, k) == 'PRAWDA':
+            return 'PRAWDA'
+    return 'FAŁSZ'
+prawda
+2.1 sym(3, 1) = 3 4 3 3 3 4 3 sym(4, 2) = 58 59 5 8 5 8 5 8 59 58 5
+2.2sym(3, 2) = 7 sym(4, 4) = 9 sym(5, 1) = 11 sym(6, 2020) = 13
+3.1
+Zegar A wskazuje godzinę 22:30:48.
+Zegar B wskazuje godzinę 07:58:35.
+Zegar C wskazuje godzinę 10:44:24.
+Zegar D wskazuje godzinę 17:48:54.
+3.2
+def suma_cyfr(n):
+    w = 0
+    while n > 0:
+        w = w + (n % 10)
+        n = n // 10
+    return w
+dla n = 45778 przyjmuje wartość 30. PRAWDA
+dla liczby n wartością zmiennej w jest suma cyfr liczby n w zapisie dziesiętnym. PRAWDA
+dla n = 1234 przyjmuje wartości 1, 3, 6, 10. PRAWDA
+dla n = 11111 przyjmuje wartość 5. PRAWDA

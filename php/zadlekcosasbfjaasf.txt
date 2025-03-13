@@ -1,0 +1,4 @@
+"ALTER TABLE baza_sprawdzian.kontynenty DROP FOREIGN KEY kontynenty_ibfk_1;"
+"ALTER TABLE baza_sprawdzian.miasta DROP FOREIGN KEY miasta_ibfk_1;"
+"ALTER TABLE `kontynenty` ADD CONSTRAINT `kontynenty_ibfk_1` FOREIGN KEY (`id_kontynent`) REFERENCES `panstwa`(`id_panstwa`) ON DELETE RESTRICT ON UPDATE RESTRICT;'
+ALTER TABLE `miasta` ADD CONSTRAINT `miasta_ibfk_1` FOREIGN KEY (`id_miasta`) REFERENCES `panstwa`(`id_panstwa`) ON DELETE RESTRICT ON UPDATE RESTRICT;

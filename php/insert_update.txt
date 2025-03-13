@@ -1,0 +1,31 @@
+1. INSERT
+2. UPDATE
+
+Ad.1
+INSERT INTO `kontynenty`(`id_kontynent`, `nazwa_kontynent`) VALUES ('9','Arktyka')
+INSERT INTO `kontynenty` (`id_kontynent`, `nazwa_kontynent`) VALUES ('10','Atlantyda');
+INSERT INTO `kontynenty` (`nazwa_kontynent`) VALUES ('Mu');
+INSERT INTO `kontynenty`( `nazwa_kontynent`) VALUES ('Pangea');
+INSERT INTO `kontynenty`(`id_kontynent`, `nazwa_kontynent`) VALUES ('26','Eurazja');
+INSERT INTO `kontynenty`(`id_kontynent`, `nazwa_kontynent`) VALUES ('30','kon1'),('31','kon2'),('32','kon3'),('33','kon3');
+
+Ad.2
+UPDATE `kontynenty` SET `id_kontynent`='12' WHERE `id_kontynent`=22;
+UPDATE `kontynenty` SET `id_kontynent`='13' WHERE `nazwa_kontynent`='Eurazja';
+UPDATE `kontynenty` SET `id_kontynent`='14',`nazwa_kontynent`='Grenlandia' WHERE nazwa_kontynent='kon1';
+=====
+UPDATE `kontynenty` SET `nazwa_kontynent`='kon2' WHERE id_kontynent=32;
+UPDATE `kontynenty` SET `id_kontynent`='15' WHERE nazwa_kontynent='kon2'
+#1062 - Powtórzone wystąpienie '15' dla klucza 'PRIMARY'
+
+
+
+
+3. DELETE
+DELETE FROM `kontynenty` WHERE nazwa_kontynent='kon2';
+INSERT INTO `kontynenty`(`id_kontynent`, `nazwa_kontynent`) VALUES ('34','kon3')
+DELETE FROM `kontynenty` WHERE nazwa_kontynent='kon3'
+
+Zmiana kluczy: id_kontynent - PK; nazwa_kontynent - UNIQUE
+INSERT INTO `kontynenty`(`id_kontynent`, `nazwa_kontynent`) VALUES ('15','kon1'),('16','kon1')
+#1062 - Powtórzone wystąpienie 'kon1' dla klucza 'nazwa_kontynent'
